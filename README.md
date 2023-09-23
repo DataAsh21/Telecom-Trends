@@ -54,7 +54,7 @@ To get started with this Power BI Telecom Dashboard:
 
 - Clone or download this repository.
 - Load your telecom dataset into Power BI.
-- Open the [`telecom_dashboard.pbix`]() file.
+- Open the [`telecom_dashboard.pbix`](https://github.com/DataAsh21/Telecom-Trends/blob/2e29604063dd8afa630ddf79a49650a2048effd6/Telecom%20Dashboard.pbix) file.
 - Explore the pre-built visuals and customize them to your needs.
 - Share your insights and reports with your team.
 
