@@ -54,7 +54,7 @@ To get started with this Power BI Telecom Dashboard:
 
 - Clone or download this repository.
 - Load your telecom dataset into Power BI.
-- Open the [`telecom_dashboard.pbix`](https://github.com/DataAsh21/Telecom-Trends/blob/2e29604063dd8afa630ddf79a49650a2048effd6/Telecom%20Dashboard.pbix) file.
+- Open the [`telecom_dashboard.pbix`](https://github.com/DataAsh21/Telecom-Trends/blob/2e29604063dd8afa630ddf79a49650a2048effd6/Telecom%20Dashboard.pbix) file.📜
 - Explore the pre-built visuals and customize them to your needs.
 - Share your insights and reports with your team.
 
@@ -66,10 +66,16 @@ Here's how our project files are organized:
 📦 Telecom-Dashboard
  ┣ 📂 Data
  ┃ ┗ 📜 telecom_data.xlsx
+ ┣ 📂 SQL-Queries
+ ┃ ┗ 📜 analysis.sql
  ┣ 📂 Visualizations
  ┃ ┗ 📜 Telecom_dashboard.pbix
  ┣ 📜 README.md
 ~~~
+
+## 🛠️ Tools and Queries
+
+Explore the provided SQL queries in the [Queries](https://github.com/DataAsh21/Telecom-Trends/blob/1cef74a43c0e12440d8d04895031a957e5c46cac/SQLQuery%20TELECOM.sql) file to perform detailed analysis on  dataset.
 
 ## 📊 Data Visualization
 
@@ -79,15 +85,13 @@ Here's a glimpse of what you can expect in the Power BI Telecom Dashboard:
 <img width="885" alt="Screenshot 2023-09-23 171046" src="https://github.com/DataAsh21/Telecom-Trends/assets/133566238/8f4b46eb-cf8c-4444-8822-0a0af1baff99">
 
 
-
-
 ## Key Insights 🔍
 <img width="885" alt="Screenshot 2023-09-23 164651" src="https://github.com/DataAsh21/Telecom-Trends/assets/133566238/4b7bc7ce-eec9-4022-9f86-3f79b1c5fe4a">
 
 ## Conclusion 🌟
 The Network Performance Analyzer is your handy tool for improving your telecom network. With lots of data and powerful tools, you can learn and use data to make the network better for users.
 
-You can check data, see which states do best and worst, and use our guide to make the network better.
+You can check data, see which states do best and worst, and use our guide to make the network better.Plus, there are SQL queries to dive even deeper into the data.
 
 It's all about making things work better for users!
 
